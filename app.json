@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "projeto-da-parcial-do-2b",
+    "slug": "snack-78249c00-47cc-46e5-90ba-ab31d99a663c",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "esse trabalho deu muito trabalho, pq quase que eu não consigo fazer."
+  }
+}
